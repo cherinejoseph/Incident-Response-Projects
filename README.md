@@ -48,10 +48,3 @@ This repository contains hands-on projects designed to enhance your skills in va
   - fail2ban
 - **Link**: [DDoS Attack Detection and Response](https://github.com/0xrajneesh/Incident-Response-Projects-for-Beginners/blob/main/Project-4-DDoS-attack-detection-and-response.md)
 
-## Get Started
-
-1. Clone the repository:
-   ```bash
-   https://github.com/0xrajneesh/Incident-Response-Projects-for-Beginners.git
-   cd Incident-Response-Projects-for-Beginners
-   ```
